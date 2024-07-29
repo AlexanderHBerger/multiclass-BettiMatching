@@ -1,0 +1,7 @@
+/env
+/models
+/data
+/runs
+/wandb
+__pycache__
+/.vscode
